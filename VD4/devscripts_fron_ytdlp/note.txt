@@ -1,0 +1,2 @@
+This devscripts folder is from yt-dlp's devscripts folder. The scripts would be used at installing dependencies
+link: https://github.com/yt-dlp/yt-dlp/tree/master/devscripts

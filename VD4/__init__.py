@@ -21,6 +21,12 @@ if not version_info >= (3, 11):
 # yt-dlp 확인
 check_and_update_module('yt-dlp', "ask")
 
+print("""please run command below after first installation:
+irm https://deno.land/install.ps1 | iex
+
+
+""")
+
 __all__ = ["VideosManager", "Videos", "con", "formatstr", "ask", "print_code", "new_sum", "Text", "Style"]
 
-__version__ = "2.0.0"
+
